@@ -1,39 +1,36 @@
-# Layan cursors
-This is an x-cursor theme inspired by layan gtk theme and
-based on [capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors).
+# Layan Cursors for Windows
 
-## Windows Version
-You can get the windows port here - [Layan-Cursors-for-windows](https://github.com/emaxoda/Layan-cursors-for-Windows)
+This is a windows cursor theme based on [Layan-Cursors](https://github.com/vinceliuice/Layan-cursors).
+
+I used [win2xcur](https://pypi.org/project/win2xcur/) to convert the cursors to the cur/ani format that Windows uses.
 
 ## Installation
-To install the cursor theme simply copy the compiled theme to your icons
-directory. For local user installation:
 
-```
-./install.sh
-```
+1. [Download](https://github.com/DJHero2903/Layan-cursors-Windows/releases/latest) the latest `Layan-Cursors-Windows.zip` release.
+1. Unzip the file.
+1. Open the folder of the cursor theme that you want to install.
+1. Right click the `Install.inf` file and click the install option.
+1. Open control panel and navigate to `Hardware and Sound > Mouse`.
+1. Click on `Pointers` tab on the new window that opens.
+1. Under the `Scheme` drop down menu, select the pointer theme that you wish to use.
+1. Click apply and ok.
 
-For system-wide installation for all users:
+Your cursor theme is now installed and enabled.
 
-```
-sudo ./install.sh
-```
+## Usage
 
-Then set the theme with your preferred desktop tools.
-
-## Building from source
-You'll find everything you need to build and modify this cursor set in
-the `src/` directory. To build the xcursor theme from the SVG source
-run:
-
-```
-./build.sh
-```
-
-This will generate the pixmaps and appropriate aliases.
-The freshly compiled cursor theme will be located in `dist/`
+If you're using Windows 10/11 you have to set up the cursor theme by going into the Control Panel/Mouse/Pointers and change the scheme to Layan Cursors.
 
 ## Preview
+
+### Layan
+
 ![Layan](preview.png)
+
+### Layan-Boarder
+
 ![Layan](preview-border.png)
+
+### Layan-White
+
 ![Layan](preview-white.png)
