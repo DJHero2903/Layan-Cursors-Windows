@@ -18,10 +18,6 @@ I used [win2xcur](https://pypi.org/project/win2xcur/) to convert the cursors to 
 
 Your cursor theme is now installed and enabled.
 
-## Usage
-
-If you're using Windows 10/11 you have to set up the cursor theme by going into the Control Panel/Mouse/Pointers and change the scheme to Layan Cursors.
-
 ## Preview
 
 ### Layan
