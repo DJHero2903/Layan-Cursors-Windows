@@ -13,7 +13,8 @@ I used [win2xcur](https://pypi.org/project/win2xcur/) to convert the cursors to 
 1. Open control panel and navigate to `Hardware and Sound > Mouse`.
 1. Click on `Pointers` tab on the new window that opens.
 1. Under the `Scheme` drop down menu, select the pointer theme that you wish to use.
-1. Click apply and ok.
+1. Click apply, if you see a message box that says the cursor scheme already exists click `yes`.
+1. Click ok.
 
 Your cursor theme is now installed and enabled.
 
